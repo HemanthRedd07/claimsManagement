@@ -5,7 +5,6 @@
 <head>
 <meta charset="UTF-8">
 <title>Claim Registration</title>
-<link rel="stylesheet" href="css/claims.css">
 </head>
 <body>
 <h4 style="border-bottom:2px solid black;text-align:center;padding:10px;font-size:24px;color:#ffffff;">Claim Registration</h4>
